@@ -1,0 +1,30 @@
+html, body {
+  background-color: #f0f0f0;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+}
+
+#app {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+input {
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+input:focus {
+  border-color: #007bff;
+}
+/*# sourceMappingURL=index.1303bb05.css.map */
